@@ -12,28 +12,6 @@ This project is a web application built with Django and deployed using Docker Co
 
 ---
 
-## 📦 Project Structure
-
-```
-.
-├── Dockerfile
-├── docker-compose.yml
-├── manage.py
-├── requirements.txt
-├── .env.example
-├── integrador/
-│   ├── __init__.py
-│   ├── settings.py
-│   ├── urls.py
-│   ├── wsgi.py
-│   └── ...
-├── todo/
-│   └── ...
-├── wait-for-db.sh
-```
-
----
-
 ## ⚙️ Setup Instructions
 
 1. **Clone the repository:**
