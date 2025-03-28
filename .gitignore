@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# Django
+db.sqlite3
+*.pot
+*.pyc
+*.sqlite3
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+.venv/
+
+# Archivos de entorno
+.env
+
+# Docker
+*.pid
+*.seed
+*.sw?
+*.swo
+docker-compose.override.yml
+
+# Archivos temporales o de backup
+*.bak
+*.tmp
+*.orig
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Archivos de compilación
+*.egg-info/
+*.egg
+build/
+dist/
+
+# Volúmenes o datos temporales de PostgreSQL si hay dumps
+pgdata/
